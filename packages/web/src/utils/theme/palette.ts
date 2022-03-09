@@ -11,7 +11,7 @@ export const light = {
   primary: {
     // main: '#3f51b5',
     // main: '#6200EE',
-    main: '#00B04F',
+    main: '#0277bd',
     /* light: 'rgb(71, 145, 219)',
     dark: 'rgb(17, 82, 147)', */
     contrastText: '#ffffff',
@@ -20,9 +20,9 @@ export const light = {
     light: '#ffb74d',
     // main: '#f9b934',
     // main: '#03DAC6',
-    main: '#f50057',
+    main: '#cfd8dc',
     dark: '#f57c00',
-    contrastText: 'rgba(0, 0, 0, 0.87)',
+    contrastText: '#f44336',
   },
   text: {
     primary: '#050505',

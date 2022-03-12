@@ -92,7 +92,7 @@ const cards = [
 
 const cards2 = [
   {
-    image: require('../assets/images/web.gif'),
+    image: require('../assets/images/hero.png'),
     title: 'Website Design',
     description: 'Best responsive websites along with SEO and paid Google Ads',
   },
